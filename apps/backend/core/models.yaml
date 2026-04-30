@@ -1,0 +1,10 @@
+models:
+  chat_1:
+    endpoint: "https://gpt-53chat-gc.openai.azure.com/"
+    model: "GPT-53chat-GC"
+    enabled: true
+
+  chat_2:
+    endpoint: "https://gpt-52-gc.openai.azure.com/"
+    model: "GPT-52-GC"
+    enabled: true
